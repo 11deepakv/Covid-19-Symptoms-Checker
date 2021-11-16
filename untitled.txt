@@ -1,0 +1,11 @@
+LogisticRegression
+    Mean:  0.34177307617821795
+    STD:  0.010337266064646645
+    
+DecisionTreeClassifier
+    Mean:  0.3436969128642571
+    STD:  0.011362791320880057
+    
+RandomForestClassifier
+    Mean:  0.3417217513598202
+    STD:  0.011757899092043084
